@@ -37,5 +37,6 @@
         <file>images/telephone.png</file>
         <file>images/trash-can.png</file>
         <file>images/user.png</file>
+        <file>gridOne.qml</file>
     </qresource>
 </RCC>
