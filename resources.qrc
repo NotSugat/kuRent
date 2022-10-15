@@ -37,6 +37,10 @@
         <file>images/telephone.png</file>
         <file>images/trash-can.png</file>
         <file>images/user.png</file>
-        <file>gridOne.qml</file>
+        <file>pages/renter/Dashboard.qml</file>
+        <file>pages/renter/StackViewPage.qml</file>
+        <file>pages/renter/Account.qml</file>
+        <file>ButtonWithImg.qml</file>
+        <file>components/ButtonWithImage.qml</file>
     </qresource>
 </RCC>

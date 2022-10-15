@@ -4,10 +4,10 @@ import QtQuick.Layouts 1.0
 
 Rectangle {
     id: sidebar
-    width: parent.width / 20
-    height: parent.height
+    width: mainWindow.width / 20
+    height: mainWindow.height
     anchors {
-        left: parent.left
+        left: mainWindow.left
 
     }
 
