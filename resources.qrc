@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>adminPanel.qml</file>
+        <file>CardImproved.qml</file>
+        <file>login.qml</file>
+        <file>loginTest.qml</file>
+        <file>ownerPage.qml</file>
+        <file>renterPage.qml</file>
+        <file>signUp.qml</file>
+        <file>signUpFinal.qml</file>
+        <file>components/adminUi/header.qml</file>
+        <file>components/adminUi/HomeIcon.qml</file>
+        <file>components/adminUi/Icon.qml</file>
+        <file>components/signupUi/navbar.qml</file>
+        <file>components/signupUi/SignupNav.qml</file>
+        <file>components/BookButton.qml</file>
+        <file>components/CardImproved.qml</file>
+        <file>components/CircularProgressBar.qml</file>
+        <file>components/CustomButton.qml</file>
+        <file>components/CustomTextField.qml</file>
+        <file>components/Header.qml</file>
+        <file>components/ProfileLogo.qml</file>
+        <file>components/Sidebar.qml</file>
+        <file>components/SidebarRenter.qml</file>
+        <file>components/StatusBar.qml</file>
+        <file>images/dashboard.png</file>
+        <file>images/email.png</file>
+        <file>images/group.png</file>
+        <file>images/groupUser.png</file>
+        <file>images/home.png</file>
+        <file>images/kulogo.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/megaphone.png</file>
+        <file>images/menu.png</file>
+        <file>images/pie-chart.png</file>
+        <file>images/report.png</file>
+        <file>images/telephone.png</file>
+        <file>images/trash-can.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
