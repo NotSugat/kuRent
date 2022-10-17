@@ -39,7 +39,7 @@ Button {
 
     background: Rectangle{
         color: internal.dynamicColor
-        radius: 10
+        radius: 4
     }
 }
 /*##^##

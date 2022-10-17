@@ -33,6 +33,7 @@ Rectangle {
                    cursorShape: Qt.PointingHandCursor
             }
 
+
         }
 
     }
@@ -80,6 +81,8 @@ Rectangle {
             background: Rectangle {
                 color: "transparent"
             }
+
+             onClicked: mainLoader.source ="qrc:/pages/renter/StackViewPage.qml"
 
         }
         Button {

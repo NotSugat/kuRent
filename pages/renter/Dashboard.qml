@@ -108,7 +108,7 @@ Item {
                 Layout.preferredHeight: 30
                 Layout.preferredWidth: 100
                 title: "Book Now"
-                onClicked: stackView.push("bookNow.qml")
+                onClicked: stackView.push("qrc:/pages/renter/BookNow.qml")
             }
 
 

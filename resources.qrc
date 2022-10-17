@@ -42,5 +42,10 @@
         <file>pages/renter/Account.qml</file>
         <file>ButtonWithImg.qml</file>
         <file>components/ButtonWithImage.qml</file>
+        <file>pages/renter/BookNow.qml</file>
+        <file>pages/renter/components/TextInput.qml</file>
+        <file>pages/renter/components/DateInput.qml</file>
+        <file>pages/renter/components/DropDownMenu.qml</file>
+        <file>pages/renter/components/Test.qml</file>
     </qresource>
 </RCC>
